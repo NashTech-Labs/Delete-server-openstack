@@ -5,8 +5,9 @@ In the microstack-openstack you can create an instance but some time you delete 
 # delete:
 step delete instance/server.
 * list the all running server.
-* delete the user-choice server.
+* delete the user-choice server. Run the openstack server delete command to delete the instance.
 * Show the instace successfully deleted.
+* To verify that the server was deleted, run the openstack server list command
 * After the instance delete, show other instance.
 
 # commands:
